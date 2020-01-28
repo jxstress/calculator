@@ -1,8 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 
-[![Build Status](https://dev.azure.com/jxstress/Calcproject/_apis?build/status/jxstress.calculator?branchName=master)]
-https://dev.azure.com/jxstress/Calcproject/_build/lastest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/jxstress/Calcproject/_apis/build/status/jxstress.calculator?branchName=master)](https://dev.azure.com/jxstress/Calcproject/_build/latest?definitionId=4&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
